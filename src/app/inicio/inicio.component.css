@@ -1,0 +1,30 @@
+.texto {
+    float: left;
+}
+
+article {
+    display: flex;
+    text-align: justify;
+    clear: both;
+    background-color: burlywood;
+    margin-top: 3%;
+    font-family: cursive;
+}
+
+img {
+    width: 30%;
+    float: right;
+    box-shadow: -1px -1px black;
+    margin: 4px;
+    border-radius: 20px;
+}
+
+footer {
+    background-color: rgb(179, 88, 88);
+    margin-top: 5px;
+    height: 40px;
+    text-align: center;
+    font: size 25px;
+    font-family: cursive;
+    border-radius: 20px;
+}
